@@ -1,5 +1,11 @@
-# Portafolio Demo
+#Portfolio
 
-Es una pagina web creada como modelo para un sitio web personal. Este proyecto fue desarrollado desde 0 utilizando HTML5 y CSS3. Cuenta con una interfaz responsiva programada para una adaptación fluida en cualquier tipo de pantalla
+In this webpage you will find:
+    - Personal information about me
+    - Main skills and hobbies about me
+    - Elements of knowledge adquired on the degree
+    - Contact information
 
-> El desarrollo de este proyectos toma inspiración en los cursos de la carrera de Arquitectura Frontend de Platzi, ademas toma como modelo a uno de sus profesores (Leonidas Esteban).
+This portfolio was taken and modified from Internet, on the web https://github.com/LuisValladaresC/portafolio-demo
+
+Jorge Morales Llerandi
